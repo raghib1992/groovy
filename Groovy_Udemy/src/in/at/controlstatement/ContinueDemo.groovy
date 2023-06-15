@@ -6,7 +6,7 @@ class ContinueDemo {
         for ( def i in 1..10){
             if (i == 5){
                 continue
-                //continue the loop, donot execute the next step
+                //continue the loop, do not execute the next step
             }
             println(i)
         }
